@@ -8,7 +8,16 @@ This repository contains a collection of projects that I have built to fulfill t
 
 - A responsive survey form that collects user input and feedback.
 - Demonstrates labels, input fields, dropdowns, radio buttons, checkboxes, and text areas.
-- View Project
+  
+**2. Tribute Page**
+- A tribute page dedicated to Ada Lovelace, a pioneer in computer science and the first female computer programmer.
+- Features an engaging layout with a responsive image and sections.
+
+**3. Technical Documentation Page**
+- A technical documentation page that provides an overview of JavaScript.
+- Includes a navbar for easy navigation, allowing users to jump to specific topics quickly.
+- Designed to be responsive, ensuring a user-friendly experience on both desktop and mobile devices.
+
 
 ## Certification Objective:
 The Responsive Web Design certification from FreeCodeCamp is designed to teach developers how to build websites that work across different screen sizes, devices, and browsers. It emphasizes core concepts like:
