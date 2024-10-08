@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coca-Cola Landing Page</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header id="header">
+      <div class="container">
+        <img
+          id="header-img"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png"
+          alt="Coca-Cola Logo"
+        />
+        <nav id="nav-bar">
+          <ul>
+            <li><a href="#features" class="nav-link">Features</a></li>
+            <li><a href="#pricing" class="nav-link">Pricing</a></li>
+            <li><a href="#contact" class="nav-link">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <section id="product-video">
+        <h1>Refresh Your Day with Coca-Cola</h1>
+        <p>Experience the refreshing taste of Coca-Cola in every sip!</p>
+        <iframe
+          id="video"
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/1VM2eLhvsSM"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </section>
+
+      <section id="features">
+        <h2>Features</h2>
+        <p>Here are some features of our product:</p>
+        <ul>
+          <li>Unique and refreshing taste</li>
+          <li>Available in various package sizes</li>
+          <li>Sugar-free option (Coca-Cola Zero Sugar)</li>
+        </ul>
+      </section>
+
+      <section id="pricing">
+        <h2>Pricing</h2>
+        <p>Choose variants:</p>
+        <ul>
+          <li>Coca-Cola Original Taste - $1.99</li>
+          <li>Coca-Cola Zero Sugar - $2.19</li>
+          <li>Coca-Cola Light - $2.19</li>
+        </ul>
+      </section>
+
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <form
+          id="form"
+          method="post"
+          action="https://www.freecodecamp.com/email-submit"
+        >
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email"
+            required
+          />
+          <input type="submit" id="submit" value="Subscribe" />
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-content">
+        <p>&copy; 2024 The Coca-Cola Company. All rights reserved.</p>
+        <p>Follow us on:</p>
+        <div class="social-icons">
+          <a href="https://facebook.com/cocacola" target="_blank">Facebook</a>
+          <a href="https://twitter.com/cocacola" target="_blank">Twitter</a>
+          <a href="https://instagram.com/cocacola" target="_blank">Instagram</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
