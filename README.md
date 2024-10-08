@@ -24,6 +24,8 @@ This repository contains a collection of projects that I have built to fulfill t
 
 - A landing page for Coca-Cola, showcasing product features, pricing, and an embedded product video.
 - Includes a navigation bar with links to different sections such as Features, Products, and Contact.
+
+[View Projects](https://www.freecodecamp.org/certification/imanmaulana119/responsive-web-design)
   
 ## Certification Objective:
 The Responsive Web Design certification from FreeCodeCamp is designed to teach developers how to build websites that work across different screen sizes, devices, and browsers. It emphasizes core concepts like:
